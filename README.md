@@ -9,7 +9,7 @@ You will need Python 3.11+ from [here](https://www.python.org/downloads/) downlo
 
 Download the minecraft auto clicker [here](https://github.com/Danycm1/Minecraft_clicker/archive/refs/heads/main.zip) and extract it inside a folder of your choosing.
 
-You can customise how long the script should run, by default it will run 1 hour and 30 minutes, you can modify it [here](https://github.com/Danycm1/Minecraft_clicker/blob/main/main.py#L8), the accepted format is XhY or Ym, for example:
+You can customize how long the script should run, by default it will run 1 hour and 30 minutes, you can modify it [here](https://github.com/Danycm1/Minecraft_clicker/blob/main/main.py#L8), the accepted format is XhY or Ym, for example:
 
 - 1h30
 - 25m
@@ -22,7 +22,7 @@ python main.py
 
 #### Does this work on linux/mac os ?
 
-It does not, this was made from windows only.
+It does not, this was made for windows only.
 
 ## License
 
